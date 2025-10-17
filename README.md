@@ -2,9 +2,9 @@
 
 A Unix-like operating system for ESP32/ESP8266 microcontrollers with a complete file system interface and terminal commands.
 
-![FleshOS Version](https://img.shields.io/badge/version-2.1-blue)
+![FleshOS Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-ESP32%20%7C%20ESP8266-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+![License](https://img.shields.io/badge/license-IPL-orange)
 
 ## Overview
 
