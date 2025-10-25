@@ -55,7 +55,7 @@ FleshOS is a lightweight operating system that brings Unix-like command-line fun
 
 1. Clone this repository:
 \`\`\`bash
-git clone https://github.com/yourusername/fleshos.git
+git clone https://github.com/IGBerko/FleshOS/sketch-esp32-fleshos.ino
 cd fleshos
 \`\`\`
 
